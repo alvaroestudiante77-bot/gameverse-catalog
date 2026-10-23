@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3a1623"/><stop offset=".5" stop-color="#a63d35"/><stop offset="1" stop-color="#f1975b"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><path d="M0 421 105 335l75 31 90-147 105 116 101-184 97 168 108-82 119 128v135H0Z" fill="#211322"/><g fill="#ffc16c"><path d="m172 169 9 24 25 9-25 9-9 25-9-25-25-9 25-9ZM581 96l8 22 22 8-22 8-8 22-8-22-22-8 22-8Z"/></g><path d="M0 462c117-57 233-71 359-42 126 28 235 11 441-45v125H0Z" fill="#161820"/><text x="54" y="80" fill="white" font-family="Arial, sans-serif" font-size="35" font-weight="700" letter-spacing="3">EMBERFALL</text><text x="57" y="115" fill="#ffd09b" font-family="Arial, sans-serif" font-size="17" letter-spacing="8">TACTICS</text>
+</svg>

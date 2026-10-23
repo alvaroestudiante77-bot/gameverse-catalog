@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#210d46"/><stop offset=".5" stop-color="#762997"/><stop offset="1" stop-color="#f74dba"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><g fill="#10132d"><path d="M0 500V226h92v274Zm112 0V159h77v341Zm98 0V274h118v226Zm148 0V102h109v398Zm143 0V209h89v291Zm120 0V136h118v364Z"/></g><g stroke="#71faff" stroke-width="6" opacity=".8"><path d="M149 215h41M380 149h65M526 259h36M648 189h56"/></g><path d="M170 470 309 342l85 29 86-112 91 52 122-157" fill="none" stroke="#ffcf75" stroke-width="10"/><text x="54" y="80" fill="white" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="4">NEON</text><text x="57" y="115" fill="#9cfcff" font-family="Arial, sans-serif" font-size="18" letter-spacing="9">DRIFT</text>
+</svg>

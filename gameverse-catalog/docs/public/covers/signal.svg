@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142c36"/><stop offset=".55" stop-color="#426e63"/><stop offset="1" stop-color="#b4d999"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><circle cx="616" cy="143" r="76" fill="#eef6c7" opacity=".78"/><path d="M321 425V216l54-74 55 74v209Z" fill="#172a32"/><path d="M375 142v-74" stroke="#f4ffd7" stroke-width="6"/><path d="M302 96c34-39 92-39 126 0M276 70c55-62 146-62 201 0" fill="none" stroke="#eaffcb" stroke-width="6" opacity=".65"/><path d="M0 408c107-118 183-37 279-55 148-29 172 81 291 19 74-38 145-48 230 19v109H0Z" fill="#11232b"/><text x="55" y="83" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="4">THE LAST</text><text x="57" y="119" fill="#dbffc0" font-family="Arial, sans-serif" font-size="24" letter-spacing="6">SIGNAL</text>
+</svg>

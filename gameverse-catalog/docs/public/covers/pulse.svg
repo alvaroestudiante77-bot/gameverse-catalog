@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#063b33"/><stop offset=".56" stop-color="#0aa378"/><stop offset="1" stop-color="#a6ff9a"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><g fill="none" stroke="#1dfbd0" stroke-width="10" opacity=".7"><path d="M-23 358C151 50 339 581 523 147S698 247 829 24"/><path d="M-27 406C155 88 369 612 543 193S713 299 829 71"/></g><path d="M122 419 281 318l102 46 143-166 154-50-119 138-143 164-133-47-171 79Z" fill="#e8fff4"/><circle cx="287" cy="430" r="34" fill="#10211e"/><circle cx="507" cy="335" r="29" fill="#10211e"/><text x="54" y="80" fill="white" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="5">PULSE</text><text x="57" y="116" fill="#beffe5" font-family="Arial, sans-serif" font-size="18" letter-spacing="8">RUNNER</text>
+</svg>

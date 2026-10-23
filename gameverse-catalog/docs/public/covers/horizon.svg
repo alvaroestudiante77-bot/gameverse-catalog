@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2c1650"/><stop offset=".55" stop-color="#e55c64"/><stop offset="1" stop-color="#f0ac5c"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><circle cx="630" cy="116" r="62" fill="#fff0b4" opacity=".8"/><path d="M0 393 132 272l83 63 113-121 94 113 116-203 262 269v107H0Z" fill="#241a42" opacity=".7"/><path d="M75 415c76-84 134-109 182-45 47-89 128-77 181 23 97-75 182-62 288 22v85H75Z" fill="#101429" opacity=".9"/><text x="55" y="85" fill="white" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="5">HORIZON</text><text x="57" y="118" fill="#ffd7a4" font-family="Arial, sans-serif" font-size="16" letter-spacing="6">NUEVOS HORIZONTES</text>
+</svg>

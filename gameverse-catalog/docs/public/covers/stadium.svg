@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13294f"/><stop offset=".62" stop-color="#376fb5"/><stop offset="1" stop-color="#8ec4ff"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#a)"/><path d="M0 163c151-86 639-87 800 0v184C611 272 173 270 0 349Z" fill="#18213b"/><path d="M0 291c231-94 572-95 800 0v209H0Z" fill="#19815a"/><path d="M400 291v209M186 333c115 52 313 52 428 0M186 458c115-52 313-52 428 0" fill="none" stroke="#c4ffe6" stroke-width="5" opacity=".75"/><circle cx="400" cy="395" r="48" fill="none" stroke="#c4ffe6" stroke-width="5" opacity=".75"/><text x="54" y="80" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="3">STADIUM</text><text x="57" y="116" fill="#b9e3ff" font-family="Arial, sans-serif" font-size="20" letter-spacing="6">LEGENDS</text>
+</svg>
