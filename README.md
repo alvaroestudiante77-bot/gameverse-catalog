@@ -2,10 +2,6 @@
 
 Una aplicación de React para explorar un catálogo de videojuegos, buscar títulos, filtrar por género, marcar favoritos y consultar detalles en un modal.
 
-## Vista previa
-
-El repositorio incluye un video corto de demostración en `docs/gameverse-demo.webm`. La secuencia de prueba y el generador autónomo del video están en [`docs/demo-guide.md`](docs/demo-guide.md) y [`docs/demo-generator.html`](docs/demo-generator.html).
-
 ## Requisitos
 
 - Node.js 20 o superior
